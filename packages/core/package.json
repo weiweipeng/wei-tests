@@ -1,0 +1,29 @@
+{
+  "name": "@wei-tests/core",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "韦鹏 <peng.wei@zatech.com>",
+  "homepage": "https://github.com/weiweipeng/wei-tests/tree/main/packages/core#readme",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.zatech.online/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weiweipeng/wei-tests.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/weiweipeng/wei-tests/issues"
+  }
+}
